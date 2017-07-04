@@ -2,6 +2,7 @@
 Retrofit+RxJava+封装，只为寻求retrofit的正确体位，后期会更新一款retrofit的封装框架，希望大家持续关注~
 
 #### 笔者从零搭建Retrofit+Rx+MVP框架APP,欢迎关注：https://github.com/nanchen2251/AiYaGirl
+#### 笔者最新参赛 RxJava 2.x 教程系列，希望支持：http://www.apkbus.com/blog-898535-68185.html
 
 #### ⊙开源不易，希望给个star或者fork奖励
 ## 特点
