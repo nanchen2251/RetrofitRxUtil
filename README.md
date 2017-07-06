@@ -1,6 +1,7 @@
 # RetrofitRxUtil
 Retrofit+RxJava+封装，只为寻求retrofit的正确体位，后期会更新一款retrofit的封装框架，希望大家持续关注~
 
+#### 笔者最新 RxJava 2.x 教程系列代码，多多支持(含技术Blog):https://github.com/nanchen2251/RxJava2Examples
 #### 笔者从零搭建Retrofit+Rx+MVP框架APP,欢迎关注：https://github.com/nanchen2251/AiYaGirl
 
 
