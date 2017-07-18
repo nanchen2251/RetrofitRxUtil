@@ -16,4 +16,8 @@ Retrofit+RxJava+封装，只为寻求retrofit的正确体位，后期会更新�
     [其它开源](https://github.com/nanchen2251/)<br>
     [个人博客](https://nanchen2251.github.io/)<br>
     [简书](http://www.jianshu.com/u/f690947ed5a6)<br>
-    [博客园](http://www.cnblogs.com/liushilin/)
+    [博客园](http://www.cnblogs.com/liushilin/)<br>
+    交流群：118116509<br>
+    欢迎投稿(关注)我的唯一公众号，公众号搜索 nanchen 或者扫描下方二维码：<br>
+    ![](http://images2015.cnblogs.com/blog/845964/201707/845964-20170718083641599-1963842541.jpg)
+
